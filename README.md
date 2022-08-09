@@ -14,8 +14,8 @@ Here are some ideas to get you started:
   Let's Connect and have a Chat!💬
 </h1>
 
-- 🔭 I’m currently working on Self
-- 🌱 I’m currently learning Java and its Frameworks
+- 🔭 I’m a student currently pursuing Integrated M.Tech(IT) from IIPS-DAVV Indore
+- 🌱 I’m currently learning Java and its Frameworks : Spring, Spring Boot, Hibernate
 - 👯 I’m looking to collaborate on J2EE Applications
 - 💬 Ask me about Java & J2EE
 - 📫 How to reach me: madhavpaliwal02@gmail.com | +91 88895 66618
